@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slide_list">
+        <item>已发布</item>
+        <item>已拍下</item>
+        <item>待拍下</item>
+    </string-array>
+    <string-array name="auction_item">
+        <item>起拍价</item>
+        <item>保证金</item>
+        <item>加价幅度</item>
+        <item>开拍时间</item>
+        <item>结束时间</item>
+        <item>分类</item>
+    </string-array>
+    <string-array name="auction_choose">
+        <item>￥0.00默认包邮</item>
+        <item>￥0.00</item>
+        <item>￥0.00</item>
+        <item>请选择拍卖开始时间</item>
+        <item>请选择拍卖结束时间</item>
+        <item>请选择分类</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Auction</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="auction">拍卖</string>
+    <string name="setting">设置</string>
+    <string name="message">消息</string>
+    <string name="index">拍你想拍</string>
+    <string name="notshow">不显示</string>
+    <string name="id">账号</string>
+    <string name="pass">密码</string>
+    <string name="login">登录</string>
+    <string name="problem">遇到问题？</string>
+    <string name="send">发布</string>
+    <string name="title">标题</string>
+    <string name="position">位置</string>
+    <string name="save">保存</string>
+    <string name="woman_cloth">女装</string>
+    <string name="man_cloth">男装</string>
+    <string name="photo">手机</string>
+    <string name="camera">照相机</string>
+    <string name="computer">电脑</string>
+    <string name="shoes">鞋</string>
+    <string name="makeup">化妆品</string>
+    <string name="car">汽车</string>
+    <string name="pull_to_refresh">下拉可以刷新</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="refreshing">正在刷新…</string>
+    <string name="not_updated_yet">暂未更新过</string>
+    <string name="updated_at">上次更新于%1$s前</string>
+    <string name="updated_just_now">刚刚更新</string>
+    <string name="time_error">时间有问题</string>
+
+</resources>
